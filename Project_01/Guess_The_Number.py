@@ -17,7 +17,7 @@ def guess_number(guessed_number):
         guess_number(guessed_number)
     
     else:
-        return print("HURRAH, YOU GUESSED IT RIGHT IN", attempt, "ATTEMPT")
+        return print("HURRAH, YOU GUESSED IT RIGHT IN")
         
 num = int(input("GUESS THE NUMBER: "))
 guess_number(num)
