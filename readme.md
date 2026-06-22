@@ -18,7 +18,7 @@ My personal code repository for the **Apna College Python Programming** lecture 
 | [Lecture 09](./Lecture_09%20(OOPS%20Part%202)/) | OOP — Part 2 | Inheritance, polymorphism, `super()` |
 | [Project 01](./Project_01/) | Mini Project | Applying all concepts in a real program |
 
-> **Course:** [Apna College Python Playlist](https://www.youtube.com/@ApnaCollegeOfficial)
+> **Course:** [Apna College Python Playlist](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=SXrMZRoDIYlJGuSG)
 
 ---
 
