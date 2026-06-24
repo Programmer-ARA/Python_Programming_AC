@@ -1,4 +1,4 @@
-# Note-- List is IMMUTABLE(Can't be changed) just like string in python.
+# Note-- Tuple is IMMUTABLE(Can't be changed) just like string in python.
 
 Tup = (2, 1, 3, 1)
 Tup_with_1_element = (1,)

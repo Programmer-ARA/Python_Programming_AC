@@ -1,3 +1,5 @@
+# LISTS IN PYTHON:- A built-in data type that stores set of values. It can store elements of different types (integer, float, string etc.)
+
 marks = [94.4, 87.5, 95.2, 66.4, 45.1]
 
 print(marks)

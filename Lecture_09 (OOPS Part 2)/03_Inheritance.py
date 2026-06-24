@@ -50,13 +50,13 @@ obj.show_child()
 # 3.    'MULTIPLE INHERITANCE': In this the child/derived class inherit the property from the multiple Parent/Base Class
 
 class A:
-    varA = "welcomr to class A"
+    varA = "welcome to class A"
 
 class B:
-    varB = "welcomr to class B"
+    varB = "welcome to class B"
 
 class C(A, B):
-    varC = "welcomr to class C"
+    varC = "welcome to class C"
 
 c1 = C()
 

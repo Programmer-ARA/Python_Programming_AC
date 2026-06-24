@@ -22,6 +22,6 @@ name2 = "Apna College"
 print(name2[1:5]) # index 5 is not included
 
 # print(name2[:4]) ----[0:4]
-# print(name2[2:]) ----[2:last index]
+# print(name2[2:]) ----[2:len(name2)]
 
 

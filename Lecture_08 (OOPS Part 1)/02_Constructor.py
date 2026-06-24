@@ -32,4 +32,3 @@ s2 = Student("Arjun", 87)
 print(s2.name)
 print(s2.marks)
 
-# The data that is stored inside the class is called as attributes.
